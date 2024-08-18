@@ -24,7 +24,7 @@ By developing a reliable traffic prediction algorithm, we aim to provide valuabl
 
 ## **Technologies Used**
 
-- - **R**
+- **R**
 - **tidyverse**
 - **forecast**
 - **ggplot2**
